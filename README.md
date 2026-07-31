@@ -17,4 +17,4 @@ I created an Amazon S3 bucket, enabled Static Website Hosting, configured public
 - Deployed a public website
 
 ## Live Website
-Paste your AWS website endpoint here.
+http://dheeraj-aws.s3-website.eu-north-1.amazonaws.com 
